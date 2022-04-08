@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "957021119476",
+    "project_id": "projettpipssinicolasdenis",
+    "storage_bucket": "projettpipssinicolasdenis.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:957021119476:android:c2924f05e35ec9cf6f0fa1",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_cours"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "957021119476-bt8tpctq607lf6ic62mjpqa3ata90ppj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAeFAEdz7gA-RoXSgS6UbMtikGquYI3VC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "957021119476-bt8tpctq607lf6ic62mjpqa3ata90ppj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
